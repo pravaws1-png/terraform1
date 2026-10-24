@@ -1,0 +1,8 @@
+**/.terraform/*
+**/terraform.tfstate
+**/terraform.tfstate.*
+*.tfplan
+crash.log
+s3/awscliv2.zip
+s3/awscliv2.zip
+s3/aws/
